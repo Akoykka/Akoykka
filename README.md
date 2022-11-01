@@ -1,6 +1,6 @@
 ### Hive 42 Student,  
 
-Problem oriented code enthusiast. 
+Problem oriented code enthusiast.  C/C++
 Former salesperson turned into a fledling developer.
 
 <!--
