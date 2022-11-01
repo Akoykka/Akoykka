@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hive 42 Student,  
+
+Problem oriented code enthusiast. 
+Former salesperson turned into a fledling developer.
 
 <!--
 **Akoykka/Akoykka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
