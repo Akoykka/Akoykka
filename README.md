@@ -21,28 +21,40 @@ I got instantly hooked and now after a bountiful year in school its time to test
 </p>
 
 <hr>
-<p>  
+
 ## About school
-<img src= "https://www.hive.fi/en" width="40" title="Hive Helsinki"> 
+<p>  
+<a href="https://www.hive.fi/en">
+<img src= "https://apply.hive.fi/assets/hivelogo7-28ffacbad276a1f25a4457ecbdae7fb6109d21488d283a4ea88a09dcbf69c9da.png" width="180" title="Hive Helsinki"> 
+</a>
 <p/>
-Hive is free coding school funded by Supercell. As I started in oct 2021 totally new to all programming concepts,
+Hive is free coding school funded by Supercell. As I started in Oct 2021 totally new to all programming concepts,
 I've attained great solid fundamentals for my professional career thanks to Hives "untraditional" learning methods.
 
-- Back to source, all projects must be built from scratch:
+### Back to source, all projects must be built from scratch:  
   Allowed functions for most part: malloc, free and write;  
   Allowed library string.h for NULL and size_t variables;  
   
-- Evaluation, emulates real life github process of getting ones code validated.
-  All projects have to be evaluated 3 to 5 evaluationprocesses according to official project evaluation form  
-  and evaluator-made rigorous tests
+### Evaluation, emulates real life github process of getting ones code validated.  
+  All leaks and unexpected crashes (be it segfault or bus error) results in failing grade and;
+  downtime of 1 to 7 days like in unit tests intervals in real life;  
+  All projects must pass 3 to 5 processes of:  
+  - Tests and evaluation form provided by school,  
+  - Rigorous tests the evaluator has prepared;  
   
-- Peer to peer, develops soft skills to excel in group-projects and develops the terminology
-  No lessons, No teachers only student body to co-operate with. 
+### Peer to peer, No lessons, No teachers. 
+  - Develops soft skills since you will have to rely on student body and working as a group,  
+  - Improves terminology;
   
-- Norm, rules to improve readability and predictability of ones code
-  All code must be written according to the school 42 norm, which is multiple page document. 
-  Designed to make code clearer. for example: All functions must be max 25 lines, 5 variables / function,
-  5 functions / .c-file, 80 charecters / line, no variable assigning inside statements etc...
+### Norm, rules to improve readability and predictability of ones code. 
+  All code must be written according to the school 42 norm, a multiple page document designed to make code clearer.  
+  Here is couple examples:
+  - All functions must be max 25 lines, 
+  - 5 variables / function,
+  - 5 functions / .c-file,
+  - 80 charecters / line,
+  - no variable assigning inside statements;
+  
     
 
 
