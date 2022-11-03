@@ -1,6 +1,6 @@
 ## About me
 
-I careershifted from retail sales to coding shortly after discovering Hive Helsinki in 2021.  
+Not long after discovering Hive Helsinki I quit my retail sales to pursue a career in coding.  
 Hive brought up my innate ability to solve problems and I enjoy finding patterns in code.  
 I got instantly hooked and now after a bountiful year in school its time to test my skills in my first internship.
 
