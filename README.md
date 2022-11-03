@@ -35,7 +35,7 @@ I've attained great solid fundamentals for my professional career thanks to Hive
   Allowed functions for most part: malloc, free and write;  
   Allowed library string.h for NULL and size_t variables;  
   
-### Evaluation, emulates real life github process of getting ones code validated.  
+### Evaluation, emulates real life github process of getting new code validated.  
   All leaks and unexpected crashes (be it segfault or bus error) results in failing grade and;
   downtime of 1 to 7 days like in unit tests intervals in real life;  
   All projects must pass 3 to 5 processes of:  
@@ -46,7 +46,7 @@ I've attained great solid fundamentals for my professional career thanks to Hive
   - Develops soft skills since you will have to rely on student body and working as a group,  
   - Improves terminology;
   
-### Norm, rules to improve readability and predictability of ones code. 
+### Norm, rules to improve readability and predictability of written code. 
   All code must be written according to the school 42 norm, a multiple page document designed to make code clearer.  
   Here is couple examples:
   - All functions must be max 25 lines, 
