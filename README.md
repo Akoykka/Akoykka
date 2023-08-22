@@ -7,16 +7,16 @@ Former Executive sales rep turned into coder.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="Modern C">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" width="40" title="Unix trickery">  
-React
-Typescript
-Javascript
-Jest 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python">
+React,
+Typescript,
+Javascript,
+Node.js,
 </p>  
 
 ### To be;
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker">
   Insert any required concept here;
 </p>
