@@ -7,7 +7,10 @@ Former Executive sales rep turned into coder.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="Modern C">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code">  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" width="40" title="Unix trickery">  
- 
+React
+Typescript
+Javascript
+Jest 
 </p>  
 
 ### To be;
